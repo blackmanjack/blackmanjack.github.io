@@ -93,6 +93,7 @@ header#masthead {
     background-attachment: scroll;
     background-position: center center;
     background-size: cover;
+    widht: 100%;
   }
   
   header#masthead .intro-text {
